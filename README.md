@@ -70,10 +70,11 @@ NB: Generally speaking, SOC here refers to detection activity, and CERT/CSIRT to
   * NIST, [SP800-86, integration forensics techniques into IR](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-86.pdf)
   * [ForensicsArtefacts](https://github.com/ForensicArtifacts/artifacts)
   * [ForensicsWiki](https://forensics.wiki/)
-* Incident response playbooks:
+* Incident response playbooks & methodology:
   * Kaspersky, [Incident Response Playbook: Dark Web Breaches](https://dfi.kaspersky.com/blog/dark-web-threats-response-guideline#form)
   * CISA, [Incident Response playbooks](https://www.cisa.gov/sites/default/files/2024-08/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf)
   * SANS, [IR Mitigations tasks](https://board.flexibleir.com/b/VtdssIfCJ6Z2LYLED/1)
+  * CERT-SG, [Incident Response Methodology](https://github.com/certsocietegenerale/irm)
 
 ## Globally (SOC and CERT/CSIRT)
 * Terms and concepts:
