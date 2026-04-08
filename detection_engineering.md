@@ -54,6 +54,8 @@ This page deals with SOC detection engineering and management (detection use cas
 ### Security solutions watch
 * Tsale, [EDR telemetry](https://github.com/tsale/EDR-Telemetry)
 * MITRE [ATT&CK Evaluations: Enterprise, 2024](https://www.withsecure.com/en/expertise/campaigns/mitre-2024)
+* Microsoft [Security Stack Mappings](https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html)
+* AWS [Security Stack Mappings](https://center-for-threat-informed-defense.github.io/security-stack-mappings/AWS/README.html)
 ### Link to risk management
 * ANSSI, [EBIOS RM methodology](https://messervices.cyber.gouv.fr/guides/en-ebios-risk-manager-method)
 * LinkedIn, [Risk assessment with ISO 27005](https://www.linkedin.com/pulse/iso-27005-risk-management-aron-lange/?trackingId=oRjjiIdY9BNjne1ALRq02A%3D%3D)
