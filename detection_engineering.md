@@ -76,6 +76,7 @@ This page deals with SOC detection engineering and management (detection use cas
 
 ## Offensive activity watch
 * David J. Bianco, [Pyramid of pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+* DarkOperator, [Mimikatz missing manual](https://github.com/darkoperator/mimikatz-missing-manual)
 * Medium, [Named pipe impersonation abuse](https://bherunda.medium.com/hunting-named-pipe-token-impersonation-abuse-573dcca36ae0)
 * Synaktiv, [Azure Entra ID pentesting mindmap](https://github.com/synacktiv/Mindmaps?s=03)
 * Rootkit POC in Rust, [MemN0ps](https://github.com/memN0ps/rootkit-rs/?tab=readme-ov-file)
@@ -87,7 +88,8 @@ This page deals with SOC detection engineering and management (detection use cas
 * Technics [Unprotect.it](https://unprotect.it/techniques/)
 * VVSwift, [EDR killers list](https://github.com/vvswift/Bypass-Protection0x00)
 * Mandiant, [Net-NTLM v1 rainbow tables](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables?hl=en)
-* DarkOperator, [Mimikatz missing manual](https://github.com/darkoperator/mimikatz-missing-manual)
+* Mandiant, [vSphere Brickstorm defender guide](https://cloud.google.com/blog/topics/threat-intelligence/vsphere-brickstorm-defender-guide?hl=en)
+
 * [LOLBAS](https://lolbas-project.github.io/): Living Off The Land Binaries, Scripts and Libraries
 * [GTFOBins](https://gtfobins.org/): curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems
 
