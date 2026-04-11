@@ -87,6 +87,8 @@
 * SSTIC [Retour technique sur la cyberattaque ayant ciblé TV5Monde](https://www.sstic.org/2017/presentation/2017_cloture/)
 * NoLimitSecu [RETEX incident cyber au CHU Brest](https://www.nolimitsecu.fr/retex-incident-de-securite/)
 * DGSI, [Flash ingérence](https://www.dgsi.interieur.gouv.fr/dgsi-a-vos-cotes/contre-espionnage/conseils-aux-entreprises-flash-ingerence)
+* LeBonCoin, [Le jour où leboncoin s’est fait hacker](https://www.youtube.com/watch?v=QRzmXUENAV8&list=PLMSqTg60yCbSXKWhrONhfdKxkCzHUVE2l&index=1)
+* OCD, [Don't go to the Police](https://www.youtube.com/watch?v=0pchn3bkgs8&list=PLmmr8p68txlBkdnBYoHeRzeYA2T-dK1uS&index=1)
 
 ## Offensif 
 
