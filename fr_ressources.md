@@ -181,6 +181,11 @@
 * HardenAD, [Harden365](https://hardenad.net/)
 
 
+## Mots de passe
+
+* SpecOpsSoft, [Nouvelles recommandations NIST pour les mots de passe](https://specopssoft.com/fr/blog/dernieres-recommandations-nist-en-matiere-de-mots-de-passe/)
+
+
 ## Conteneurs
 
 * ANSSI, [Recommandations de sécurité relatives au déploiement de conteneurs Docker](https://cyber.gouv.fr/publications/recommandations-de-securite-relatives-au-deploiement-de-conteneurs-docker)
