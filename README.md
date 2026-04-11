@@ -57,13 +57,16 @@ NB: Generally speaking, SOC here refers to detection activity, and CERT/CSIRT to
 
 
 ## For a CERT/CSIRT
+* Global overview:
+  * SANS, [Incident Response](https://www.sans.org/security-resources/glossary-of-terms/incident-response)
+  * FlexibleIR, [IR phases](https://playbooks.flexibleir.com/incident-response-phases-best-practices/)
 * CSIRT build:
   * FIRST, [CERT-in-a-box](https://www.first.org/resources/guides/cert-in-a-box.zip) 
   * FIRST, [CSIRT Services Framework](https://www.first.org/standards/frameworks/csirts/csirt_services_framework_v2.1)
 * Security incident response management:
   * ENISA, [Good practice for incident management](https://www.enisa.europa.eu/publications/good-practice-guide-for-incident-management)
   * EE-ISAC [Incident Response whitepaper](https://www.ee-isac.eu/media/2023/05/EE-ISAC-Incident-Response-White-Paper.pdf)
-  * LinkedIn Pulse, [Security incident management according to ISO 27005](https://www.linkedin.com/pulse/security-incident-management-according-iso-27035-dipen-das-)
+  * LinkedIn Pulse, [Security incident management according to ISO 27035](https://www.linkedin.com/pulse/security-incident-management-according-iso-27035-dipen-das-)
   * Microsoft/EY/Edelman, [Incident response reference guide](https://www.linkedin.com/posts/the-cyber-security-hub_incident-response-reference-guide-activity-7033563558642642944-0zav?utm_source=share&utm_medium=member_desktop)
   * Microsoft, [IR lessons on cloud ID compromise](https://www.microsoft.com/en-us/security/blog/2023/12/05/microsoft-incident-response-lessons-on-preventing-cloud-identity-compromise/?msockid=07788c7fcb0c689a2a5d98f6ca0169fb)
 * Forensics:
@@ -73,7 +76,6 @@ NB: Generally speaking, SOC here refers to detection activity, and CERT/CSIRT to
 * Incident response playbooks & methodology:
   * Kaspersky, [Incident Response Playbook: Dark Web Breaches](https://dfi.kaspersky.com/blog/dark-web-threats-response-guideline#form)
   * CISA, [Incident Response playbooks](https://www.cisa.gov/sites/default/files/2024-08/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf)
-  * SANS, [IR Mitigations tasks](https://board.flexibleir.com/b/VtdssIfCJ6Z2LYLED/1)
   * CERT-SG, [Incident Response Methodology](https://github.com/certsocietegenerale/irm)
 
 ## Globally (SOC and CERT/CSIRT)
