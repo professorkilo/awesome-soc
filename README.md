@@ -427,8 +427,10 @@ red
 
 
 ## Harden SOC/CSIRT environment
-* Implement hardening measures on SOC workstations, servers, and IT services that are used (if possible).
-   * e.g.: [CIS](https://www.cisecurity.org/), [Microsoft Security Compliance Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=55319)
+* Implement hardening measures on SOC workstations, servers, and IT services that are used (if possible), e.g.:
+   * CIS [Benchmarks](https://www.cisecurity.org/);
+   * Microsoft [Security Compliance Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=55319);
+   * NIST, [SP800-63B: Digital Identity Guidelines](https://pages.nist.gov/800-63-4/sp800-63b.html)
 * Put the SOC assets in a separate AD forest, as [forest is the AD security boundary](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/gathering-information-about-your-active-directory-deployment), for isolation purposes, in case of a global enterprise's IT compromise
 * Create/provide a disaster recovery plan for the SOC assets and resources.
 * Implement admin bastions and silo to administrate the SOC env (equipments, servers, endpoints):
