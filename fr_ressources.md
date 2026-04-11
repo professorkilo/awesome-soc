@@ -7,24 +7,29 @@
 * [Bonnes pratiques](https://github.com/cyb3rxp/awesome-soc/blob/main/fr_ressources.md#bonnes-pratiques-s%C3%A9curit%C3%A9)
 * [Juridique](https://github.com/cyb3rxp/awesome-soc/blob/main/fr_ressources.md#Juridique--r%C3%A8glementaire)
 
+
 # Concepts fondamentaux et outils indispensables
 
 ## Modèle de règles de détection
 
 * SSTIC 2024 : [SIGMA](https://www.sstic.org/2024/presentation/sigma__la_correlation_au_service_de_la_detection/)
 
+
 ## SOAR :
 
 * RedHat, [Le SOAR, qu'est-ce que c'est ?](https://www.redhat.com/fr/topics/security/what-is-soar)
+
 
 ## "Threat hunting" / chasse 
 
 * CrowdStrike, [Qu'est-ce que le "threat hunting ?"](https://www.crowdstrike.fr/cybersecurity-101/threat-hunting/)
 
+
 ## Analyse de configuration sécurité
 
 * Pour Windows 11 : [Harden Windows Security](https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden-System-Security)  (l'interface est dispo en Français).
 * Pour Google Workspace : [GWS Audit](https://github.com/cyb3rxp/GWS-Audit)
+
 
 # Veille
 
@@ -32,6 +37,7 @@
 
 * [Erreur 403](https://newsletter.erreur403.fr/)
 * [veille cyber](https://veillecyber.fr/)
+
 
 ## Etat de la menace :
 
@@ -56,6 +62,7 @@
 
 * [CERT Santé](https://cyberveille.esante.gouv.fr/alertes-et-vulnerabilites/rss.xml)
 
+
 ## Podcats cyber francophones :
 
 * [Le Déjargonneur](https://feeds.acast.com/public/shows/le-dejargonneur-cyber)
@@ -78,9 +85,11 @@
 * [RadioCSIRT](https://www.radiocsirt.org/RadioCSIRT/radio/)
   * [liens pour services de podcast](https://www.radiocsirt.org/qui-sommes-nous/)
 
+
 ## Etat de l'écosystème cybersécurité
 
 * Splunk, [Etat de la cybersécurité 2023](https://www.splunk.com/fr_fr/pdfs/gated/ebooks/state-of-security-2023.pdf)
+
 
 ## RETEX de réponse à incident cyber
 
@@ -90,14 +99,17 @@
 * LeBonCoin, [Le jour où leboncoin s’est fait hacker](https://www.youtube.com/watch?v=QRzmXUENAV8&list=PLMSqTg60yCbSXKWhrONhfdKxkCzHUVE2l&index=1)
 * OCD, [Don't go to the Police](https://www.youtube.com/watch?v=0pchn3bkgs8&list=PLmmr8p68txlBkdnBYoHeRzeYA2T-dK1uS&index=1)
 
+
 ## Offensif 
 
 * Wiki-tech, ["Process hollowing"](https://wiki-tech.io/S%C3%A9curit%C3%A9/Pentest/Process-Hollowing)
+
 
 ## Publications spécialisées (PDF)
 
 * [MISC mag](https://connect.ed-diamond.com/misc)
 * XMCO [ActuSecu](https://www.xmco.fr/actusecu/)
+
 
 # Management de la sécurité
 
@@ -110,9 +122,12 @@
 
 * Cybermalveillance.gouv.fr [10 mesures essentielles pour la sécurité numérique](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/10-mesures-essentielles-assurer-securite-numerique)
 
+
 ## OSINT/ROSO
 
 * OSINTFR : [OPSEC OSINT](https://mooc.osintfr.com/mod/book/tool/print/index.php?id=14)
+
+
 
 # Bonnes pratiques sécurité
 
@@ -122,21 +137,26 @@
 * ANSSI [Guide d'Hygiène Informatique](https://cyber.gouv.fr/publications/guide-dhygiene-informatique)
 * NIST, [CSF 2, guide de démarrage rapide pour les petites entreprises](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=958795)
 
+
 ## Chiffrement
 
 * ANSSI [Règles et recommandations concernant le choix et le dimensionnement des mécanismes cryptographiques](https://messervices.cyber.gouv.fr/guides/mecanismes-cryptographiques)
+
 
 ## Fiches réflexe de réponse à incident
 
 * InterCERT [fiches réflexe](https://www.intercert-france.fr/publications/fiches-reflexes/)
 
+
 ## Postes Windows (non classifiés)
 
 * ANSSI, [Sécurisation du poste de travail multi-environnements (non classifiés)](https://messervices.cyber.gouv.fr/guides/fondamentaux-poste-multi-environnements)
 
+
 ## Postes nomades
 
 * ANSSI, [Guide nomadisme numérique](https://cyber.gouv.fr/publications/recommandations-sur-le-nomadisme-numerique)
+
 
 ## AD :
 
@@ -145,42 +165,54 @@
 * Akril, [Tiers d'admin, en FR](https://akril.net/comprendre-le-tiering-model-de-microsoft-en-francais/)
 * HardenAD, [HardenAD](https://hardenad.net/)
 
+
 ## Journalisation Windows / AD
 
 * ANSSI, [Journalisation en environnement MS Active Directory](https://cyber.gouv.fr/publications/securiser-la-journalisation-dans-un-environnement-microsoft-active-directory)
+
 
 ## Microsoft 365
 
 * HardenAD, [Harden365](https://hardenad.net/)
 
+
 ## Conteneurs
 
 * ANSSI, [Recommandations de sécurité relatives au déploiement de conteneurs Docker](https://cyber.gouv.fr/publications/recommandations-de-securite-relatives-au-deploiement-de-conteneurs-docker)
+
 
 ## IA générative / Agent IA
 
 * InterCERT, [Intelligence artificielle dans la cybersécurité : un atout puissant à savoir maîtriser](https://www.intercert-france.fr/intelligence-artificielle-dans-la-cybersecurite-un-atout-puissant-a-savoir-maitriser/)
 * Microsoft, [Agent 365](https://info.microsoft.com/FR-CAW-VDEO-FY26-02Feb-17-Agents-everywhere-Keep-control-with-Agent-365-SRGCM15957_LP02-Thank-You---Standard-Hero.html)
 
+
 ## Questionnaire RGPD
 
 * CNIL [Guide sécurité des données personnelles](https://www.cnil.fr/sites/cnil/files/2024-03/guide_securite_donnees_personnelles_checklist.pdf)
 
-# Juridique & règlementaire
+
+
+# Juridique // règlementaire // Cyberdéfense FR
 
 ## Règlementations FR
 
 * Technique et Droit du Numérique, [Etat de l'art cybersécurité : technique et juridique en 2024](https://technique-et-droit-du-numerique.fr/cyber-securite-etat-de-l-art-et-negligence-un-point-technique-et-juridique-en-2024/)
 
-## RGPD / CNIL :
+
+## RGPD / CNIL 
 
 * CNIL [actualités](https://www.cnil.fr/fr/rss.xml)
 
 
-## NIS2 :
+## NIS2 
 
 * Sekoia, [webinaire NIS2](https://www.youtube.com/watch?v=78KIo3iXjow)
 * Liste des exigences ANSSI [LeMagIT](https://www.lemagit.fr/rms/LeMagIT/NIS2-PROJETphase3decret20Reglesdesecuritev5.2.pdf)
 * ANSSI, [Mon espace NIS2](https://monespacenis2.cyber.gouv.fr/)
 * ANSSI, [ReCyF](https://cyber.gouv.fr/actualites/nis-2-lanssi-poursuit-et-renforce-sa-dynamique-daccompagnement/)
 
+
+## Feuille de route étatique FR pour la sécurité numérique
+
+* ANSSI [Feuille de route des efforts prioritaires en matière de sécurité numérique de l’Etat 2026-2027](https://cyber.gouv.fr/nous-connaitre/publications/feuilles-de-route-de-la-securite-numerique-de-letat/feuille-de-route-de-securite-numerique-2026-2027/)
