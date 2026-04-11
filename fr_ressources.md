@@ -105,6 +105,11 @@
 * Wiki-tech, ["Process hollowing"](https://wiki-tech.io/S%C3%A9curit%C3%A9/Pentest/Process-Hollowing)
 
 
+## RGPD / CNIL 
+
+* CNIL [actualités](https://www.cnil.fr/fr/rss.xml)
+
+
 ## Publications spécialisées (PDF)
 
 * [MISC mag](https://connect.ed-diamond.com/misc)
@@ -185,6 +190,7 @@
 
 * InterCERT, [Intelligence artificielle dans la cybersécurité : un atout puissant à savoir maîtriser](https://www.intercert-france.fr/intelligence-artificielle-dans-la-cybersecurite-un-atout-puissant-a-savoir-maitriser/)
 * Microsoft, [Agent 365](https://info.microsoft.com/FR-CAW-VDEO-FY26-02Feb-17-Agents-everywhere-Keep-control-with-Agent-365-SRGCM15957_LP02-Thank-You---Standard-Hero.html)
+* [LinkedIn], [Qu'est-ce qu'une IA Agentique ?](https://www.linkedin.com/posts/yassinechabli_arr%C3%AAtez-dappeler-votre-chatbot-une-ia-agentique-activity-7439944348948926464-yStg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFF-doB6B2Ni3ozMuNrY5JDC3WiW3KWP9s)
 
 
 ## Questionnaire RGPD
@@ -200,9 +206,13 @@
 * Technique et Droit du Numérique, [Etat de l'art cybersécurité : technique et juridique en 2024](https://technique-et-droit-du-numerique.fr/cyber-securite-etat-de-l-art-et-negligence-un-point-technique-et-juridique-en-2024/)
 
 
-## RGPD / CNIL 
+## CNIL 
 
-* CNIL [actualités](https://www.cnil.fr/fr/rss.xml)
+* CNIL, [Guide de la sécurité des données personnelles](https://www.cnil.fr/fr/guide-de-la-securite-des-donnees-personnelles)
+* CNIL, [Référentiel de durées de conservation des données RH](https://www.cnil.fr/fr/referentiel-durees-conservation-donnees-rh)
+* CNIL, [L'analyse d’impact relative à la protection des données (AIPD)](https://www.cnil.fr/fr/RGPD-analyse-impact-protection-des-donnees-aipd)
+* CNIL, [Recommandations pour mots de passe](https://www.cnil.fr/fr/mots-de-passe-recommandations-pour-maitriser-sa-securite)
+* CNIL, [Gérer la sous-traitance](https://www.cnil.fr/fr/securite-gerer-la-sous-traitance)
 
 
 ## NIS2 
