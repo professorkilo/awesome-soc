@@ -47,6 +47,8 @@
 * ANSSI :
   * [Panorama 2025 de la cybermenace](https://cyber.gouv.fr/nous-connaitre/publications/panoramas-de-la-cybermenace/panorama-de-la-cybermenace-2025/)
   * [Etat de la menace mobile depuis 2015](https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-012/)
+ 
+* Ministère de l'Intérieur (COMCYBER-MI), [Rapport annuel sur la cybercriminalité 2026](https://www.interieur.gouv.fr/documentation/rapports/rapport-annuel-sur-cybercriminalite-2026.html)
 
 * Microsoft, [Rapport Digital Defense Report 2025](https://news.microsoft.com/source/emea/2025/10/lextorsion-et-les-rancongiciels-sont-a-lorigine-de-plus-de-la-moitie-des-cyberattaques/?lang=fr)
 
